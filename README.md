@@ -11,9 +11,9 @@ Hi 👋, I'm Maria Ramos<br> Computer Engineering Student | Building knowledge l
 |---|---|
 | 🧠 **ML/AI** | Python · PyTorch · Keras · scikit-learn |
 | 💻 **Languages** | C · C# · Java · JavaScript · PHP |
-| 🌐 **Web** | HTML5 · .NET · Node.js |
+| 🌐 **Web** | HTML5 · .NET · Node.js · Spring Boot |
 | 🗄️ **Databases** | MariaDB · MySQL |
-| 🛠️ **Tools** | Git · Anaconda · Gradle · Postman · Unity · Docker|
+| 🛠️ **Tools** | Git · Anaconda · Gradle · Maven · Postman · Unity · Docker|
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MariaJFFR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MariaJFFR&theme=dark&hide_border=false)<br/>
