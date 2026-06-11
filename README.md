@@ -1,6 +1,8 @@
 # About Me:
-Hi 👋, I'm Maria Ramos<br> Computer Engineering Student | Building knowledge line by line🎓
+Hi 👋, I'm Maria Ramos
+Computer Engineering Student @ UPT · Based in Portugal 🇵🇹
 
+Open to opportunities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maria_jffr) 
