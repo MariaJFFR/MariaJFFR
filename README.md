@@ -13,6 +13,6 @@ Open to opportunities.
 |---|---|
 | 🧠 **ML/AI** | Python · PyTorch · Keras · scikit-learn |
 | 💻 **Languages** | C · C# · Java · JavaScript · PHP |
-| 🌐 **Web** | HTML5 · .NET · Node.js · Spring Boot |
+| 🌐 **Web** | HTML5 · .NET · Node.js · Spring Boot· Tailwind CSS |
 | 🗄️ **Databases** | MariaDB · MySQL |
 | 🛠️ **Tools** | Git · Anaconda · Gradle · Maven · Postman · Unity · Docker |
