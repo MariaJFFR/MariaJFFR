@@ -5,7 +5,6 @@ Computer Engineering Student @ UPT · Based in Portugal 🇵🇹
 Open to opportunities.
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maria_jffr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-ramos-60b494403/)
 
 # 💻 Tech Stack:
